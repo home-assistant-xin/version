@@ -1,2 +1,3 @@
-# version
-Home Assistant 版本数据
+# Version
+
+Home Assistant versions data
